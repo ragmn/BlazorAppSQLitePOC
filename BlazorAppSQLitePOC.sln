@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppSQLitePOC", "BlazorAppSQLitePOC\BlazorAppSQLitePOC.csproj", "{47052A81-2098-4070-BD2C-F2914B21AAEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47052A81-2098-4070-BD2C-F2914B21AAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47052A81-2098-4070-BD2C-F2914B21AAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47052A81-2098-4070-BD2C-F2914B21AAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47052A81-2098-4070-BD2C-F2914B21AAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B83F760C-6785-4CAB-AA27-F7A694D916B1}
+	EndGlobalSection
+EndGlobal
